@@ -1,0 +1,5 @@
+* Procedural Planet Explorer
+  A procedural planet project in Unity. It is currently under construction.
+
+** Resources Used
+   - [[https://www.youtube.com/playlist?list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8][Procedural Planet Generation. 2018 Sebastian Lague. Retrieved 16 November 2020]]
